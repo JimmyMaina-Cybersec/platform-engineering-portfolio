@@ -97,7 +97,7 @@ Technical communication demonstrating ownership:
 ### Most Recent
 *This section updates weekly with key insights*
 
-**Week 1** (Dec 30 - Jan 5):
+**Week 1** (Jan 12 - Jan 18):
 - Setting up learning system
 - Establishing baseline practices
 
@@ -239,7 +239,7 @@ This isn't a collection of tutorial projects. It's a systematic approach to buil
 
 ## 🔗 Links
 
-- **Learning System**: [Notion Workspace](your-notion-link-here)
+- **Learning System**: [Notion Workspace](https://www.notion.so/Dashboard-2d7b7470a64e80b0996fc7d0bc4e2edc)
 - **Blog**: [Medium](https://medium.com/@jimmymaina)
 - **LinkedIn**: [my-linkedin](https://www.linkedin.com/in/jimmy-maina/)
 - **Progress Tracking**: [Spreadsheet](your-sheet-link)
@@ -251,7 +251,7 @@ This isn't a collection of tutorial projects. It's a systematic approach to buil
 Building in public. Currently seeking Backend/Platform Engineer roles with SRE ownership.
 
 **Email**: mainajimmy40@gmail.com  
-**LinkedIn**: [Jimmy Maina](https://www.linkedin.com/in/jimmy-maina/) 
+**LinkedIn**: [Jimmy-Maina](https://www.linkedin.com/in/jimmy-maina/) 
 **Location**: Nairobi, Kenya
 
 ---
