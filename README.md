@@ -242,7 +242,7 @@ This isn't a collection of tutorial projects. It's a systematic approach to buil
 - **Learning System**: [Notion Workspace](https://www.notion.so/Dashboard-2d7b7470a64e80b0996fc7d0bc4e2edc)
 - **Blog**: [Medium](https://medium.com/@jimmymaina)
 - **LinkedIn**: [my-linkedin](https://www.linkedin.com/in/jimmy-maina/)
-- **Progress Tracking**: [Spreadsheet](your-sheet-link)
+- **Progress Tracking**: [Spreadsheet](https://docs.google.com/spreadsheets/d/1Qx4KEnhiyjDMEA6SDlXKCS91xq1yAdMl6_IXR1n4u1Q/edit?usp=sharing)
 
 ---
 
