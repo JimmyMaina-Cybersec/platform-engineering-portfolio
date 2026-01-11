@@ -237,6 +237,8 @@ This isn't a collection of tutorial projects. It's a systematic approach to buil
 - [Phase Retrospectives](./learning-log/phase-retrospectives/)
 - [Things I've Learned](./learning-log/things-ive-learned.md)
 
+---
+
 ## 📖 Blog Posts
 
 Following this journey through weekly blog posts:
@@ -261,7 +263,7 @@ Following this journey through weekly blog posts:
 ## 🔗 Links
 
 - **Learning System**: [Notion Workspace](https://www.notion.so/Dashboard-2d7b7470a64e80b0996fc7d0bc4e2edc)
-- **Blog**: [Medium](https://medium.com/@jimmymaina), [Hashnode](https://jimmymaina.hashnode.dev/)
+- **Blog**: [Medium](https://medium.com/@jimmymaina) | [Hashnode](https://jimmymaina.hashnode.dev/) | [Dev.to](https://dev.to/jimmy-maina)
 - **LinkedIn**: [my-linkedin](https://www.linkedin.com/in/jimmy-maina/)
 - **Progress Tracking**: [Spreadsheet](https://docs.google.com/spreadsheets/d/1Qx4KEnhiyjDMEA6SDlXKCS91xq1yAdMl6_IXR1n4u1Q/edit?usp=sharing)
 
