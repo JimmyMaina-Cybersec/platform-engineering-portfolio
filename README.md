@@ -227,7 +227,9 @@ This isn't a collection of tutorial projects. It's a systematic approach to buil
 - [All Incidents](./phase-1-service/incidents/) - Coming soon
 
 ### Technical Writing
-- [Blog Posts](#) - Coming soon
+- **Blog Posts:**
+- **Hashnode**: [jimmymaina.hashnode.dev](https://jimmymaina.hashnode.dev)
+- **Dev.to**: [@Jimmy-maina](https://dev.to/jimmy-maina)
 - [Technical Samples](./phase-4-portfolio/technical-writing/) - Coming soon
 
 ### Learning Log
@@ -235,12 +237,31 @@ This isn't a collection of tutorial projects. It's a systematic approach to buil
 - [Phase Retrospectives](./learning-log/phase-retrospectives/)
 - [Things I've Learned](./learning-log/things-ive-learned.md)
 
+## 📖 Blog Posts
+
+Following this journey through weekly blog posts:
+
+### Recent Posts
+- [Week 0: Starting a 16-Week Journey](https://jimmymaina.hashnode.dev/week-0-starting-a-16-week-journey-to-platform-engineering) - Why I'm learning in public
+- [More posts coming weekly]
+
+### Subscribe
+- **Hashnode**: [jimmymaina.hashnode.dev](https://jimmymaina.hashnode.dev)
+- **Dev.to**: [@Jimmy-maina](https://dev.to/jimmy-maina)
+- **Medium**: [@jimmymaina](https://medium.com/@jimmymaina)
+- **RSS**: [Feed](https://jimmymaina.hashnode.dev/rss.xml)
+
+### Post Schedule
+- **Weekly Updates**: Every Sunday
+- **Failure Fridays**: Every Friday
+- **Deep Dives**: As needed
+
 ---
 
 ## 🔗 Links
 
 - **Learning System**: [Notion Workspace](https://www.notion.so/Dashboard-2d7b7470a64e80b0996fc7d0bc4e2edc)
-- **Blog**: [Medium](https://medium.com/@jimmymaina)
+- **Blog**: [Medium](https://medium.com/@jimmymaina), [Hashnode](https://jimmymaina.hashnode.dev/)
 - **LinkedIn**: [my-linkedin](https://www.linkedin.com/in/jimmy-maina/)
 - **Progress Tracking**: [Spreadsheet](https://docs.google.com/spreadsheets/d/1Qx4KEnhiyjDMEA6SDlXKCS91xq1yAdMl6_IXR1n4u1Q/edit?usp=sharing)
 
